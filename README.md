@@ -1,4 +1,5 @@
-> Insomnia hath murder'd sleep, and therefore your computer shall sleep no more.
+> Insomnia hath murder'd sleep, and therefore 
+> OS shall sleep no more; Computer shall sleep no more.
 >
 > -- <cite>Snakespeare</cite>
 
