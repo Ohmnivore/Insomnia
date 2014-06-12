@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1402609213 source:c:\users\ohmnivore\desktop\cppdev\insomnia\main.cpp
+	<hx/CFFI.h>
+	<windows.h>
+
+1388700673 c:\users\ohmnivore\desktop\cppdev\insomnia\includes\hx\cffi.h
+	"OS.h"
+	<stdio.h>
+	<stdlib.h>
+	"CFFILoader.h"
+	"CFFIAPI.h"
+
+1388700673 c:\users\ohmnivore\desktop\cppdev\insomnia\includes\hx\os.h
+	<stddef.h>
+	<stdint.h>
+	<errno.h>
+
+1388700673 c:\users\ohmnivore\desktop\cppdev\insomnia\includes\hx\cffiloader.h
+	<android/log.h>
+	<windows.h>
+	<stdio.h>
+	<mach-o/dyld.h>
+	<dlfcn.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<hx/NekoFunc.h>
+
+1388700673 c:\users\ohmnivore\desktop\cppdev\insomnia\includes\hx\nekofunc.h
+
+1388700673 c:\users\ohmnivore\desktop\cppdev\insomnia\includes\hx\cffiapi.h
+
