@@ -1,8 +1,3 @@
-> Insomnia hath murder'd sleep, and therefore 
-> OS shall sleep no more; Computer shall sleep no more.
->
-> -- <cite>Snakespeare</cite>
-
 Essentially this is a rudimentary Haxe wrapper around some system functions that handle processes. I was trying to make an online game where I needed a dedicated server to run 24/7. Of course that wouldn't work when the computer would fall asleep. That's why I decided to make this.
 
 ### Features:
